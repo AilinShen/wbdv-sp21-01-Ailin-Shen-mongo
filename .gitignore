@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# data file
+data
+
+.idea
+.DS_Store
